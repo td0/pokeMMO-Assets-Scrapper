@@ -1,0 +1,1379 @@
+{
+  "update_feed": {
+    "min_osx_installer_version": "10",
+    "file": [
+      {
+        "md5": "67a909016cb44c04b60f4ab176876010",
+        "name": "PokeMMO.l4j.ini",
+        "only_if_not_exists": "true",
+        "sha1": "87c570df1df33c34ff1519fb6edcbafd9e3e5417",
+        "size": "18"
+      },
+      {
+        "md5": "df3ea4b57a701e7b25cbba6126f8b611",
+        "name": "PokeMMO.sh",
+        "only_if_not_exists": "true",
+        "sha1": "6380529d19305c69679f567854849d9ff6d7e36c",
+        "size": "73"
+      },
+      {
+        "md5": "543708b8a5c2cff295601d6e2a06da41",
+        "name": "data/data.pak",
+        "sha1": "14b08410c52d1376df39332bd9123c23a94497d3",
+        "size": "26274"
+      },
+      {
+        "md5": "557f150eb30ca1241597f2c40b9f8e26",
+        "name": "data/mods/example_mod.zip",
+        "sha1": "fb8aedcfdc9e2f6b1a81e8a6dc376115715cc5e3",
+        "size": "4887"
+      },
+      {
+        "md5": "2560a5c65ea183b7b055f3ee48bba8cf",
+        "name": "data/offsets/BPEDv1.0.dat",
+        "sha1": "3853b62cf8fdc474cce84b0850fccbc7f784c189",
+        "size": "110968"
+      },
+      {
+        "md5": "88135b6ea75acd2c7e40b82f016c7c67",
+        "name": "data/offsets/BPEFv1.0.dat",
+        "sha1": "dad609e6eb52f1e047fcdb63a771a2c4ca809e3b",
+        "size": "110929"
+      },
+      {
+        "md5": "8f8c0733f388ae73ac1ff93f4d27007d",
+        "name": "data/offsets/BPEIv1.0.dat",
+        "sha1": "0270217d1a501ef070a65583c1d83a9421fbe326",
+        "size": "110890"
+      },
+      {
+        "md5": "9664e09605fe622c7fd1e43975f3b647",
+        "name": "data/offsets/BPESv1.0.dat",
+        "sha1": "d36f8b1bef00c1a1284d782140e63f1788c68bd4",
+        "size": "110890"
+      },
+      {
+        "md5": "6f663fdd1c593039194ba33d1c1b9491",
+        "name": "data/offsets/BPRDv1.0.dat",
+        "sha1": "cf4ee5567b090c31323f4d93795428edb1ec177b",
+        "size": "64936"
+      },
+      {
+        "md5": "9369bd2c1567ce8366df365ee5919a9d",
+        "name": "data/offsets/BPREv1.1.dat",
+        "sha1": "f6b2610429c9e8239275c9819f24342bcec1b739",
+        "size": "64936"
+      },
+      {
+        "md5": "9afff474cd40d28120d965a3ffd137c6",
+        "name": "data/offsets/BPRFv1.0.dat",
+        "sha1": "caf8dc3e178d3a567b30c4ec9c7b1ac49f9c7cd6",
+        "size": "64936"
+      },
+      {
+        "md5": "0e4b1ef224618bb8cc4254106ab5d9d4",
+        "name": "data/offsets/BPRIv1.0.dat",
+        "sha1": "f455a9d6514b39981fc16828ba9ece33d299eb09",
+        "size": "64931"
+      },
+      {
+        "md5": "bf4db2fb927800710da44ceb2ab3036a",
+        "name": "data/offsets/BPRSv1.0.dat",
+        "sha1": "f39697b3202cda40d1fbf7928ac19f78e85cd4eb",
+        "size": "64936"
+      },
+      {
+        "md5": "d803ae6fb92405af047e577a1d390e6c",
+        "name": "data/resources.zip",
+        "sha1": "d3a1010638be49264452f81454e157e4c3303672",
+        "size": "172143"
+      },
+      {
+        "md5": "2e79db221ea8a0b040c78d697c07cd53",
+        "name": "data/shaders/bw.frag",
+        "sha1": "631cfaf1bb99db9df04ae0b3759345658974dc64",
+        "size": "363"
+      },
+      {
+        "md5": "28a87fbc9cd46e024a3a80240b2e1271",
+        "name": "data/shaders/bw.vert",
+        "sha1": "d5b0d5227be666cb8d4dd7073f7c4390c6c1a35a",
+        "size": "126"
+      },
+      {
+        "md5": "b037a69965be423f38bf2384c5bc87cf",
+        "name": "data/shaders/invert.frag",
+        "sha1": "fc33aadc3c301ff4a9d1abec7b0300fff69afd4e",
+        "size": "205"
+      },
+      {
+        "md5": "28a87fbc9cd46e024a3a80240b2e1271",
+        "name": "data/shaders/invert.vert",
+        "sha1": "d5b0d5227be666cb8d4dd7073f7c4390c6c1a35a",
+        "size": "126"
+      },
+      {
+        "md5": "765b64ed115ad68a59fd1820e3151f32",
+        "name": "data/shaders/metal_claw.frag",
+        "sha1": "8b9ca22c81e98cbb26a78f0cadaeeeb87e4405da",
+        "size": "601"
+      },
+      {
+        "md5": "28a87fbc9cd46e024a3a80240b2e1271",
+        "name": "data/shaders/metal_claw.vert",
+        "sha1": "d5b0d5227be666cb8d4dd7073f7c4390c6c1a35a",
+        "size": "126"
+      },
+      {
+        "md5": "b36d1d8b621f9d39b20f63e3ab7a1d0c",
+        "name": "data/shaders/statdown.frag",
+        "sha1": "9bc100f99ddc757b7e397bb87845c821b9a84dad",
+        "size": "387"
+      },
+      {
+        "md5": "28a87fbc9cd46e024a3a80240b2e1271",
+        "name": "data/shaders/statdown.vert",
+        "sha1": "d5b0d5227be666cb8d4dd7073f7c4390c6c1a35a",
+        "size": "126"
+      },
+      {
+        "md5": "ca174030e4459e85fa8b0c34df07b079",
+        "name": "data/sprites/addons.pak",
+        "sha1": "746f964f2765ce3c23ade237f25b3a37fe4e6cdc",
+        "size": "1375650"
+      },
+      {
+        "md5": "6039ed0cf627651dc6a47c0ecbef8ebb",
+        "name": "data/sprites/game.pak",
+        "sha1": "876bf9eb69ff27a35e339334b4bee27ec3242b3f",
+        "size": "14367"
+      },
+      {
+        "md5": "96c9c0daed3c3db7feb5eeeb032641e7",
+        "name": "data/sprites/overlays.pak",
+        "sha1": "130b47729a134327529ac537e4992c04c201f990",
+        "size": "76249"
+      },
+      {
+        "md5": "efb0ebeace8c1bae7f2cc4bbe4829eb2",
+        "name": "data/strings/strings_de.xml",
+        "sha1": "d5ab26bca0a6542043b9bde37540b0b29c5e1ad8",
+        "size": "174222"
+      },
+      {
+        "md5": "903ced7ecbfb6679a7e8ba48df9493e3",
+        "name": "data/strings/strings_en.xml",
+        "sha1": "92077adc55b582a10224e0a55725a778f8a96268",
+        "size": "170128"
+      },
+      {
+        "md5": "e3cac4761134db88e4452661bc9c2965",
+        "name": "data/strings/strings_es.xml",
+        "sha1": "0da053b704360bf62d394d0283149f8bb900a2e0",
+        "size": "170560"
+      },
+      {
+        "md5": "3b6c5d1d61216b429bab514846037e88",
+        "name": "data/strings/strings_fr.xml",
+        "sha1": "40b839edbd11f8d67c3c3600dcb1c83f08f8e464",
+        "size": "175453"
+      },
+      {
+        "md5": "dbbd5146fbe59a40cc95eefce1f71217",
+        "name": "data/strings/strings_it.xml",
+        "sha1": "c97cadf2ecc948bd20a3943e93f64620da956786",
+        "size": "167447"
+      },
+      {
+        "md5": "a2e8f6ccb9f3f145b9fa76a0a6daea33",
+        "name": "data/themes/default-dark/fonts.xml",
+        "sha1": "8355f9080ff0157e07c8db973ee501841ccf3c8d",
+        "size": "970"
+      },
+      {
+        "md5": "9e2d34e8b1f7ba30ea0974ce6dd4ddcc",
+        "name": "data/themes/default-dark/gfx.xml",
+        "sha1": "0ef3913bd2d8a11e0accdf12e3c8cf9020d24a1a",
+        "size": "934"
+      },
+      {
+        "md5": "d5b095a5e25e49d881a6fe0c66f4b577",
+        "name": "data/themes/default-dark/gfx_ui.xml",
+        "sha1": "2b11f48d580e4f34c197396ae50c1ef65d3f0a12",
+        "size": "29999"
+      },
+      {
+        "md5": "5d9d893a3efa033be84a2156cbde174a",
+        "name": "data/themes/default-dark/res/pokemmo_ui_dark.png",
+        "sha1": "ef58080e6d05977e7feee814b20f0207267bf448",
+        "size": "15408"
+      },
+      {
+        "md5": "1e0c2ef07db39d755f5f359e17040f9f",
+        "name": "data/themes/default-dark/textures/arrow_set.png",
+        "sha1": "c50363fb69f181ed783f22d63b46b1bfb87b7c05",
+        "size": "1381"
+      },
+      {
+        "md5": "afa0b0accf612cc33cf2aaa6b84f8aff",
+        "name": "data/themes/default-dark/theme.xml",
+        "sha1": "86347d4e56685059126a891e84eeadcbdbe7fd6f",
+        "size": "2443"
+      },
+      {
+        "md5": "b0cd19b7b97eced99914217b1a4465fe",
+        "name": "data/themes/default/cursors.xml",
+        "sha1": "d38b5616eafe5ca31cd54d884e84312dd123acab",
+        "size": "1197"
+      },
+      {
+        "md5": "228e84e7f9bd829fb30c2c8f1b346f87",
+        "name": "data/themes/default/fonts.xml",
+        "sha1": "dfa5eb146a2f5d7834b312fad99e37e2a01eb4e7",
+        "size": "4848"
+      },
+      {
+        "md5": "6f0ef810344d893ccfb1013ece3e645c",
+        "name": "data/themes/default/gfx.xml",
+        "sha1": "bf7f4cfd7dd95117eb84d1b24a7c61c944a1d2f2",
+        "size": "63220"
+      },
+      {
+        "md5": "17110a53f9796f9969a9a0a40fc1e792",
+        "name": "data/themes/default/gfx_ui.xml",
+        "sha1": "c9c85e1a350a9a7df4de9663b3c3f957396c6114",
+        "size": "28213"
+      },
+      {
+        "md5": "cba3c7f3d7f9498ce96fb076160abf56",
+        "name": "data/themes/default/init.xml",
+        "sha1": "bcee342b2b21b054da74a4c4e01052106051c07a",
+        "size": "45265"
+      },
+      {
+        "md5": "4614a88f71fca34ffed25835d4d3706b",
+        "name": "data/themes/default/main-widgets.xml",
+        "sha1": "5636d42ffc96af32e835e2af80067f143afd2f76",
+        "size": "80116"
+      },
+      {
+        "md5": "9e5ca9a99f4d4c0dc756adc9c6844679",
+        "name": "data/themes/default/res/MainTCTexture.png",
+        "sha1": "3f9986b8e30b88c23155180d77d774139ffdd4f7",
+        "size": "44264"
+      },
+      {
+        "md5": "c793e3e5d3cbe4659feaf23fd774f9b8",
+        "name": "data/themes/default/res/battle-hud.png",
+        "sha1": "cd5a4a70f075a38ea4868c176836d500a0fc6510",
+        "size": "151787"
+      },
+      {
+        "md5": "0163d9cbf7b71b02bea7b756caf754d8",
+        "name": "data/themes/default/res/bg.png",
+        "sha1": "33af5fac83d33f0de0b25c2339fce59b1b1e47ed",
+        "size": "5880"
+      },
+      {
+        "md5": "86a8cbce1b86e2137e8470d4e8ff4d55",
+        "name": "data/themes/default/res/breedwindow.png",
+        "sha1": "4359dd5108527d7b0b09e3a3b35b8d5171d55011",
+        "size": "3685"
+      },
+      {
+        "md5": "2b42684868aaa0bdce357721d8bcf12d",
+        "name": "data/themes/default/res/chat-dialog.png",
+        "sha1": "0550e5d3dd9631cac4c71d7b027b197a5f4089c6",
+        "size": "5736"
+      },
+      {
+        "md5": "e80d79f939a77d525b34de3f47930c95",
+        "name": "data/themes/default/res/contestgui.png",
+        "sha1": "ab139ae42e314f3cb58d6d32171b052b5fa1d17e",
+        "size": "2348"
+      },
+      {
+        "md5": "abefbe26e8a5097c34ea7af41f245667",
+        "name": "data/themes/default/res/cursors.png",
+        "sha1": "386d0d1b195c3126c251b1b9336e834009e706ef",
+        "size": "621"
+      },
+      {
+        "md5": "665b423c24ac8c693185b9864d9e393e",
+        "name": "data/themes/default/res/fonts/TrainerCardNameplate_00.fnt",
+        "sha1": "6e55e424c48d6974287a7a597e994f4db944c31f",
+        "size": "6971"
+      },
+      {
+        "md5": "675a27b066b845bc057548ad791c9663",
+        "name": "data/themes/default/res/fonts/TrainerCardNameplate_00.png",
+        "sha1": "bd37ae60723458fddd9bc8d8479448d0a4aed7cd",
+        "size": "5292"
+      },
+      {
+        "md5": "6f06f795c27de708c4398f30d13d0751",
+        "name": "data/themes/default/res/fonts/battle.fnt",
+        "sha1": "10055b4317661b7be0826528fcf1930d9d69138d",
+        "size": "4142234"
+      },
+      {
+        "md5": "b30c3020101e2aca90ca70afd548c445",
+        "name": "data/themes/default/res/fonts/battle_00.png",
+        "sha1": "da670a379065a93c72809f6ab17ca722d104baf7",
+        "size": "10811"
+      },
+      {
+        "md5": "48238ea9e6ee6ecd8feeb05dfee602e8",
+        "name": "data/themes/default/res/fonts/battle_01.png",
+        "sha1": "b6ff00ad8255fe1a4a8123c08e27e1c65d964848",
+        "size": "58558"
+      },
+      {
+        "md5": "269523a3429d12ac48640bb3278b2b78",
+        "name": "data/themes/default/res/fonts/battle_02.png",
+        "sha1": "91b06b1e7480e172795a73836c94b96ce68696da",
+        "size": "54402"
+      },
+      {
+        "md5": "e927680ea710ff1932a4e05101df907e",
+        "name": "data/themes/default/res/fonts/battle_03.png",
+        "sha1": "279ebcf2be2df52a36219feee569d26c61907988",
+        "size": "60201"
+      },
+      {
+        "md5": "9e8b23df03347d4fc674cd4d5c6c81ec",
+        "name": "data/themes/default/res/fonts/battle_04.png",
+        "sha1": "7a8325400b769cf45dd6508cdfd2ecf45a846738",
+        "size": "58129"
+      },
+      {
+        "md5": "29a3a240a44a0e8c02c1c2711dd5d833",
+        "name": "data/themes/default/res/fonts/battle_05.png",
+        "sha1": "616ac7b1e16c0f9c8ee21e2a12259bf2a9af405e",
+        "size": "50177"
+      },
+      {
+        "md5": "ab60196aeb8f01dbf9b2c6ad76754172",
+        "name": "data/themes/default/res/fonts/battle_06.png",
+        "sha1": "0fa472d1fa8a6b6a6f679ec4f175d527a954cd42",
+        "size": "58255"
+      },
+      {
+        "md5": "485170a63e7abb4fcbcafeb1006d3881",
+        "name": "data/themes/default/res/fonts/battle_07.png",
+        "sha1": "6a7795a0fdffad059defef287b3103c268d7f16c",
+        "size": "52525"
+      },
+      {
+        "md5": "74e7dc7f39f4d87169e882f99e2fce73",
+        "name": "data/themes/default/res/fonts/battle_08.png",
+        "sha1": "5710c9dbd6d2e34e28ec72f90afa9cbb7170a66d",
+        "size": "60244"
+      },
+      {
+        "md5": "eb312cacb74632f44843113a69ff212e",
+        "name": "data/themes/default/res/fonts/battle_09.png",
+        "sha1": "c7e691cef78f9cc055826c70b8cb2e9e89a9ede6",
+        "size": "58600"
+      },
+      {
+        "md5": "20b38c6d76a90ce1992929d2f645978e",
+        "name": "data/themes/default/res/fonts/battle_10.png",
+        "sha1": "a26ce70f5f9185a4cc1a6f02d0260ca7f19b5519",
+        "size": "55537"
+      },
+      {
+        "md5": "ef00289f3e0b2e98fb082e7b736f4460",
+        "name": "data/themes/default/res/fonts/battle_11.png",
+        "sha1": "83aefdc288371f3e289e6db3f5d082e59127233a",
+        "size": "60797"
+      },
+      {
+        "md5": "78db4ec301af4697a2fa351fd71d41a0",
+        "name": "data/themes/default/res/fonts/battle_12.png",
+        "sha1": "a9039a4dc53a55f8058b1d2aca2209c7bfa032c9",
+        "size": "59458"
+      },
+      {
+        "md5": "983cf7d3846f5620e3c658ba664ba3bb",
+        "name": "data/themes/default/res/fonts/battle_13.png",
+        "sha1": "26d3d2a7b702306e01e43d1f90413bd5f0c94798",
+        "size": "54900"
+      },
+      {
+        "md5": "59e1958cbfcd6912ea2233413605a745",
+        "name": "data/themes/default/res/fonts/battle_14.png",
+        "sha1": "1947cdff90c3752b0d5df6e9f8c0cec418d0ad81",
+        "size": "56910"
+      },
+      {
+        "md5": "0803c7796d6182616ff4a025dfb93171",
+        "name": "data/themes/default/res/fonts/battle_15.png",
+        "sha1": "18523d01a53941c278cf195d3b83eb5707453d8b",
+        "size": "55550"
+      },
+      {
+        "md5": "d7bf9027d35b020028570cdcbf9743bb",
+        "name": "data/themes/default/res/fonts/battle_16.png",
+        "sha1": "e2418bd355e2f71fbfb4fbbe51d4bbe2d5cb571d",
+        "size": "59113"
+      },
+      {
+        "md5": "ae90ee08be4af2816da20fefad727736",
+        "name": "data/themes/default/res/fonts/battle_17.png",
+        "sha1": "92b1cf0e4069d77c12c50f0a3b2da3deb8fef287",
+        "size": "53901"
+      },
+      {
+        "md5": "760d8fc3322fc35b7e8708b1b0556970",
+        "name": "data/themes/default/res/fonts/battle_18.png",
+        "sha1": "39886a9ddc884247e242a14ef4a3080bb66447db",
+        "size": "43727"
+      },
+      {
+        "md5": "c63915da1bf994f06721a99e8807bb83",
+        "name": "data/themes/default/res/fonts/battle_19.png",
+        "sha1": "60405e71bb7e6ac18ff9acb6819cbdc8f3c95f2e",
+        "size": "43537"
+      },
+      {
+        "md5": "7bc4f93e02d36bfd79a2f0a37ebb05a2",
+        "name": "data/themes/default/res/fonts/battle_20.png",
+        "sha1": "0e6e0cf4b6763fc4250461307c6b51e6e52b9516",
+        "size": "45630"
+      },
+      {
+        "md5": "a8c8cb3c645e819f5d3adb418654ea33",
+        "name": "data/themes/default/res/fonts/battle_21.png",
+        "sha1": "8a2e54536c53740accb50e0b5b8c633717d2b6fd",
+        "size": "48056"
+      },
+      {
+        "md5": "24d22ad722d4dfcfbe04fd6f38f12baa",
+        "name": "data/themes/default/res/fonts/battle_22.png",
+        "sha1": "34474601c29e6dff5fe47a3d0a6cb87036bf81a7",
+        "size": "41314"
+      },
+      {
+        "md5": "57d5e19850d0cc30279cef122d65d1e8",
+        "name": "data/themes/default/res/fonts/battle_23.png",
+        "sha1": "8d8babfd387fdd255f74ab02d80a2fb6d33656a6",
+        "size": "39373"
+      },
+      {
+        "md5": "2b816fad7179a954b452e1eeb98051b7",
+        "name": "data/themes/default/res/fonts/battle_24.png",
+        "sha1": "4b27d99bc92c9de5e7636da488670c1d1467d604",
+        "size": "27040"
+      },
+      {
+        "md5": "6c4803fc9118f23ebc546fc1e0c918b7",
+        "name": "data/themes/default/res/fonts/battle_25.png",
+        "sha1": "0ce4630a7f48474731d21c2a2204cbf7dc37ab2d",
+        "size": "36750"
+      },
+      {
+        "md5": "1220636da440c9b922fd2d4e4025e678",
+        "name": "data/themes/default/res/fonts/battle_26.png",
+        "sha1": "a6e8e76bc42f0cc511c122feafe3e1726ffe16eb",
+        "size": "35716"
+      },
+      {
+        "md5": "5e414989e45f8149825d152a25dd388f",
+        "name": "data/themes/default/res/fonts/battle_27.png",
+        "sha1": "99272863f3c5f7630b1a3bd18b6d4d5d808f0937",
+        "size": "32828"
+      },
+      {
+        "md5": "4a839faeb6ea350e7673b6a38eae7f8c",
+        "name": "data/themes/default/res/fonts/battle_28.png",
+        "sha1": "b70e9fbaffc711ff3f6d095fa5666c8800acd817",
+        "size": "29712"
+      },
+      {
+        "md5": "b0962da2c0f66bd49069cac2ae40d028",
+        "name": "data/themes/default/res/fonts/battle_29.png",
+        "sha1": "82a67af3c2500103c9ffb2bddac9d444ab6034fa",
+        "size": "32794"
+      },
+      {
+        "md5": "5b2fafff7d69437c9a60735211306ad8",
+        "name": "data/themes/default/res/fonts/battle_30.png",
+        "sha1": "7a7cd5f6fddfbb0c1ef000d20e0a8d1934f4159b",
+        "size": "16164"
+      },
+      {
+        "md5": "4b43a7025b853a988e3b7b4fc9896b17",
+        "name": "data/themes/default/res/fonts/braille.fnt",
+        "sha1": "b8d382cd7ac9596114d5bef872ccece6c4886149",
+        "size": "30820"
+      },
+      {
+        "md5": "6adeb64fee5007b8b965c63c2966cf86",
+        "name": "data/themes/default/res/fonts/braille_00.png",
+        "sha1": "e131b612b3967edc32a35992a9b4e7b66a582f9d",
+        "size": "4040"
+      },
+      {
+        "md5": "c7e64d02202d3c5a4fcbf808c10b4cfb",
+        "name": "data/themes/default/res/fonts/dejavu-8pt.fnt",
+        "sha1": "75f07447cf03d0967b9690c595dfe5e618aa5f4c",
+        "size": "11646"
+      },
+      {
+        "md5": "4fa873c4e796f102ea9b854541a7fc77",
+        "name": "data/themes/default/res/fonts/dejavu-8pt_00.png",
+        "sha1": "5e806bb26282c561fa498fecb26c741d68db0e62",
+        "size": "8062"
+      },
+      {
+        "md5": "c6c6f9a95db9a1d218426e305dd10cc4",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel.fnt",
+        "sha1": "d96a8439678a7d832505e164a84504970d21b92a",
+        "size": "4483607"
+      },
+      {
+        "md5": "973eaa69e231cce3c7b257a791e0229d",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_00.png",
+        "sha1": "f87d3dbf2e494494a79996b38239a8a6796ca26e",
+        "size": "99760"
+      },
+      {
+        "md5": "1490cb90454fd509dc0e81b7e42f5334",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_01.png",
+        "sha1": "43a2d86d0be1921e2a3e10993ea930d5d2e22159",
+        "size": "1019555"
+      },
+      {
+        "md5": "2959a3bf2009ba80420082870c433e49",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_02.png",
+        "sha1": "e6f3835a24ef8c8892f6425d6671bed0aa78e1ed",
+        "size": "1010066"
+      },
+      {
+        "md5": "52833142933efe3380d05bab6b62a02a",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_03.png",
+        "sha1": "bd25c9210b19d6a5f2133c42c1aae59189359512",
+        "size": "1039378"
+      },
+      {
+        "md5": "384e9774316d5bab32f65d3ace02a338",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_04.png",
+        "sha1": "1fbc18950740585db95f0cb1841390fe2183a28e",
+        "size": "1056446"
+      },
+      {
+        "md5": "f3fdb54cb79b48990972e2998418e45f",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_05.png",
+        "sha1": "64796b4f4e2fda0fa9255e9104c823f23d0458f7",
+        "size": "938351"
+      },
+      {
+        "md5": "012a88650f20b463b05eacc4322a2d40",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_06.png",
+        "sha1": "ae7bee82d45dfd96dc34ee328b9589380b5cfa05",
+        "size": "775682"
+      },
+      {
+        "md5": "db0dcb95190a4e6a1acf6e612033201b",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_07.png",
+        "sha1": "6acdb9952d2d3a5361e1c954e23ae09bc0cb9a42",
+        "size": "793574"
+      },
+      {
+        "md5": "28f5874242c524526f66ea243fac5a3f",
+        "name": "data/themes/default/res/fonts/dejavu-bold-bevel_08.png",
+        "sha1": "1239ad417813a36e84e9b0c765eefc091b1875b1",
+        "size": "167837"
+      },
+      {
+        "md5": "b24270a76e8f32648a298f93abbd0d1a",
+        "name": "data/themes/default/res/fonts/dino.fnt",
+        "sha1": "46112f1bf0fcfc916d97231596197baab194ad98",
+        "size": "4585560"
+      },
+      {
+        "md5": "0aa265cd5a3801fcab8a5ef8101434c6",
+        "name": "data/themes/default/res/fonts/dino_00.png",
+        "sha1": "8b88b67a96ceb7a5e1047d5ea9c70edaab650087",
+        "size": "407219"
+      },
+      {
+        "md5": "e2f91ab8f43a4d314778e1f8a2795135",
+        "name": "data/themes/default/res/fonts/dino_01.png",
+        "sha1": "502eeaeb8fc9a99dc107cfe5490f3107ff8dbdba",
+        "size": "516057"
+      },
+      {
+        "md5": "5b16d4a6397d74948d2b831593622871",
+        "name": "data/themes/default/res/fonts/dino_02.png",
+        "sha1": "ee12d257d34c7f9b32a896e20641855205f5935c",
+        "size": "507930"
+      },
+      {
+        "md5": "0c096eecfce434e66fdc490f36025e9a",
+        "name": "data/themes/default/res/fonts/dino_03.png",
+        "sha1": "38d7bd42de569c95d3e6247cb9f71029535249d4",
+        "size": "521513"
+      },
+      {
+        "md5": "20abe2ad61445fbc63ca8b6d769d5117",
+        "name": "data/themes/default/res/fonts/dino_04.png",
+        "sha1": "300c257283b067261ab170894d9927fd1928246b",
+        "size": "493963"
+      },
+      {
+        "md5": "199edd16fe87e17d080f444e80c538be",
+        "name": "data/themes/default/res/fonts/dino_05.png",
+        "sha1": "90ed6d690371538d5a5d1372cf28515eae02e905",
+        "size": "335401"
+      },
+      {
+        "md5": "41cacaec707002c0c6d0ab42e01a401e",
+        "name": "data/themes/default/res/fonts/dino_06.png",
+        "sha1": "1a4da4b75d80ee34f4e89de2397541f33cb9650c",
+        "size": "358760"
+      },
+      {
+        "md5": "dc4f537bdba0421c3e567d6789800873",
+        "name": "data/themes/default/res/fonts/dino_07.png",
+        "sha1": "122cd8ba381f29e05532b9f9b04f90ff4c86f040",
+        "size": "92787"
+      },
+      {
+        "md5": "956fd2518aff9a59d0d4d18c1265ef35",
+        "name": "data/themes/default/res/fonts/mechabold.fnt",
+        "sha1": "aa830d6a59671824a777b7d618babd205e5327a4",
+        "size": "4129762"
+      },
+      {
+        "md5": "7ed389fdea93ab9751eeb7fae5838b0c",
+        "name": "data/themes/default/res/fonts/mechabold_00.png",
+        "sha1": "edf2cc3ac2fb013d81eefbec0c6e8fc4788de4a2",
+        "size": "8758"
+      },
+      {
+        "md5": "03d43ead10566526db526d52db4f3736",
+        "name": "data/themes/default/res/fonts/mechabold_01.png",
+        "sha1": "5492b92e884f2412ab193df2cd2ae8a2ee2c6957",
+        "size": "828350"
+      },
+      {
+        "md5": "fa6d1790ceb1a1ae3f4e5813c4174bb6",
+        "name": "data/themes/default/res/fonts/mechabold_02.png",
+        "sha1": "1ccc9dc8de44a3a4e6590fcc8f55849d1f96efd1",
+        "size": "837405"
+      },
+      {
+        "md5": "a9c4d1ef4343a770827a41f2cd320f2d",
+        "name": "data/themes/default/res/fonts/mechabold_03.png",
+        "sha1": "1b9a625bfa989ca303ef9ab8be761f6a87e1c48c",
+        "size": "770392"
+      },
+      {
+        "md5": "779d6287e581ff5639faf096ad8e6503",
+        "name": "data/themes/default/res/fonts/mechabold_04.png",
+        "sha1": "5fb2144385c2d3f94f4c74abccd8043d56124d41",
+        "size": "839503"
+      },
+      {
+        "md5": "e41c2a3bcc017fc8e8b0ec918cfd98e4",
+        "name": "data/themes/default/res/fonts/mechabold_05.png",
+        "sha1": "29c2fdaa864dd84a37727ea54e0e998b55d3d40a",
+        "size": "852477"
+      },
+      {
+        "md5": "21a6fbe334b622e9040d7dce27ed2149",
+        "name": "data/themes/default/res/fonts/mechabold_06.png",
+        "sha1": "e7b75a8b0cfefdc552056f4223667fbaf638e0af",
+        "size": "786364"
+      },
+      {
+        "md5": "65bbdae94a4124be52dd48c476554238",
+        "name": "data/themes/default/res/fonts/mechabold_07.png",
+        "sha1": "a411c80b31911c8786b3747165d195877f9daab7",
+        "size": "665294"
+      },
+      {
+        "md5": "e893b7b84c3f08a647a6af365e2f5c6c",
+        "name": "data/themes/default/res/fonts/mechabold_08.png",
+        "sha1": "031388a897b222ed5ba664973a2d26afaeeb15e4",
+        "size": "664562"
+      },
+      {
+        "md5": "7b6723879b8237a7871a512907d87189",
+        "name": "data/themes/default/res/fonts/mechabold_09.png",
+        "sha1": "6116b17d3a4b056983eb5a9bc1e1fba9ed86e07b",
+        "size": "166809"
+      },
+      {
+        "md5": "6ce64873dc56975a10f870a95133e50d",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow.fnt",
+        "sha1": "48206cbb70ef7fb6406738bc955e8a3f7d0a7c10",
+        "size": "4590012"
+      },
+      {
+        "md5": "b895506927afb353c5d7fcae5c77257c",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_00.png",
+        "sha1": "c9327dc644786ddfb13a55456179b760e037bb3a",
+        "size": "421052"
+      },
+      {
+        "md5": "15be1cc14624ccaec8fca36f37f94c5a",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_01.png",
+        "sha1": "a52bd94a10a0223fcbff87ace5729de5aac1dd24",
+        "size": "1669866"
+      },
+      {
+        "md5": "d0a4032f4be9e919dc19b3150f30b203",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_02.png",
+        "sha1": "df9333cae481ba1109b53cc1157f738540b9a5dd",
+        "size": "1672317"
+      },
+      {
+        "md5": "dc6942ca3f762bce900134f94a0ad53a",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_03.png",
+        "sha1": "0a6cabd4e9730aa862545282fa60c1424abcc33a",
+        "size": "1704337"
+      },
+      {
+        "md5": "2b8c0f9b2e1140eaf0b4133d737f499f",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_04.png",
+        "sha1": "701707d588a27c6e1c3e77bb8f41a4fc4bb469b2",
+        "size": "1737221"
+      },
+      {
+        "md5": "6ae574232aceac28e4e666a80a0f35b3",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_05.png",
+        "sha1": "e3f3b7efe717fdf32daa5ff0851ba59bffe676b4",
+        "size": "1551165"
+      },
+      {
+        "md5": "5f603addae5983b7c32d82507b8b7df4",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_06.png",
+        "sha1": "32d58772113de64b1a90da2372825c9aed155f2b",
+        "size": "1282772"
+      },
+      {
+        "md5": "9e1f2568773063fbecda950010c94261",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_07.png",
+        "sha1": "75a8b6ea9659624f42e6fabaf45354e47e7bd885",
+        "size": "1394164"
+      },
+      {
+        "md5": "e0ec2f5406cc1102dd2bc2262160dcc8",
+        "name": "data/themes/default/res/fonts/pixel-berry-8pt-shadow_08.png",
+        "sha1": "fc437685f9e540b75ac4bfa970c6beab5fa0a2be",
+        "size": "289630"
+      },
+      {
+        "md5": "bd52fd793d6c33968887e87bcdd8dc92",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border.fnt",
+        "sha1": "739393f10c370f836474771aeeaa7d942d51df49",
+        "size": "4499656"
+      },
+      {
+        "md5": "7efe79aa2990b58fff296b1c2c091171",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_00.png",
+        "sha1": "aa37121040de17ae8473e6257c4e3d84b622bc8d",
+        "size": "139940"
+      },
+      {
+        "md5": "d08c3649ecec13bee45287f40dfc52a1",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_01.png",
+        "sha1": "1df5056b3b91f8779aca0de2f94d74e7ad849487",
+        "size": "807239"
+      },
+      {
+        "md5": "8c0cbd2b042cd811afef09465d1eca3c",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_02.png",
+        "sha1": "eb76aebf93f51f27e157376185d9d9e6cc683bc5",
+        "size": "800327"
+      },
+      {
+        "md5": "f7806a192d945e7da6907e4e3525d715",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_03.png",
+        "sha1": "dadf0263275c64407a711f5a4f05e8edf2c45d55",
+        "size": "830293"
+      },
+      {
+        "md5": "6fcd216fe0feb93429001a40bcbc4b90",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_04.png",
+        "sha1": "a4dbcd862b23bacd6721b845ff5825c9dce31f27",
+        "size": "863133"
+      },
+      {
+        "md5": "4d91cf18c58dc948467f4d1cef7a9b27",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_05.png",
+        "sha1": "7d4e03e4e15c1682f4d318161e84e041510af2ea",
+        "size": "831274"
+      },
+      {
+        "md5": "07f18f1eb946fdb773bec9095f41097b",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_06.png",
+        "sha1": "c4b8d1fd73ef190485208e3429f93de2e17c8fec",
+        "size": "636067"
+      },
+      {
+        "md5": "a2c7ecdd2dd8fdde411ce377bb65d7ea",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_07.png",
+        "sha1": "da3a0337c1cc4d76c22a211c2e2105791d47ac02",
+        "size": "404326"
+      },
+      {
+        "md5": "29829b9d9e494282fad33f7fa0bebdc4",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_08.png",
+        "sha1": "b65d799f352fa6c5f27cd85926e18b8ac81c6874",
+        "size": "644723"
+      },
+      {
+        "md5": "a68f12297cba34cb3a16fc4df25bbadc",
+        "name": "data/themes/default/res/fonts/pixel-bery-8pt-border_09.png",
+        "sha1": "588cfec6b653e7a1e14d871d29794718a4fc110b",
+        "size": "97684"
+      },
+      {
+        "md5": "ee30da883c9c84825273d6de94e0ec62",
+        "name": "data/themes/default/res/gameshop.png",
+        "sha1": "b231b7b2b4adc959aeec6afea65dcbcae65a8e53",
+        "size": "15287"
+      },
+      {
+        "md5": "369cf7297d4641593102f93a1af1477d",
+        "name": "data/themes/default/res/iconreel.png",
+        "sha1": "ae945c3a4f6bf5c2166d599c8d64b7a4aafc15ff",
+        "size": "6348"
+      },
+      {
+        "md5": "e80ece2c73fc0d483aef9752e6d02a94",
+        "name": "data/themes/default/res/main-hud.png",
+        "sha1": "30484cf481fe6e791d672ac2b8d9258ed8c1a2c3",
+        "size": "33327"
+      },
+      {
+        "md5": "693594a83bdd66816a8eea02a17c6628",
+        "name": "data/themes/default/res/monster-info.png",
+        "sha1": "6dee6fe7a86097c19bd6a3e272bf218736643bb6",
+        "size": "30594"
+      },
+      {
+        "md5": "11be1a175b8569caa4a6b3b4f88abaf6",
+        "name": "data/themes/default/res/pc-window.png",
+        "sha1": "11fdde134f34411d2d2751846bcf675f18abec12",
+        "size": "118688"
+      },
+      {
+        "md5": "7b3e93562f924d2c31884fad478ee5bf",
+        "name": "data/themes/default/res/pokemmo_ui.png",
+        "sha1": "67f7f26229fd85c62c1cdbd2c584b0812652f793",
+        "size": "18539"
+      },
+      {
+        "md5": "a99e607fdf2ca8e8fa09c20d197a3fdf",
+        "name": "data/themes/default/res/user-interface.png",
+        "sha1": "cdb9127dcdf98e31f9960463d91f47c32de1f045",
+        "size": "21329"
+      },
+      {
+        "md5": "5eb612ac1d39da42216fbbf8fe04309e",
+        "name": "data/themes/default/res/water-levels.png",
+        "sha1": "33a99830b0af325650b2e2260aa5cacf1be5ad31",
+        "size": "826"
+      },
+      {
+        "md5": "56c07d2000d20a4ecdba97ee8dfcadd0",
+        "name": "data/themes/default/textures/BPSprite.png",
+        "sha1": "6547b7f53e43da06e6685b0fbb420f6687164eb1",
+        "size": "322"
+      },
+      {
+        "md5": "90abc1d9ef6c0a34a19f5d2df39a9ccb",
+        "name": "data/themes/default/textures/ClockSprite.png",
+        "sha1": "28bc2749faecd101cffd1a2a12b324f651925838",
+        "size": "429"
+      },
+      {
+        "md5": "64fa470856d865c1fdc92245bfb4ab35",
+        "name": "data/themes/default/textures/CoinSprite.png",
+        "sha1": "95025748f117549a9a92d2bfe83e69d66b378bde",
+        "size": "447"
+      },
+      {
+        "md5": "a94af1b04d160c8e486bb8ddc3275216",
+        "name": "data/themes/default/textures/addon_tooltips.png",
+        "sha1": "928d15827d2096a0d4e472b3ff80d59a43eb0527",
+        "size": "1687"
+      },
+      {
+        "md5": "3bcd7543c2e15e88162c5da58f707d9f",
+        "name": "data/themes/default/textures/arrow_set.png",
+        "sha1": "5731df6e42b8eb927ce7f71ba52c7b8f0f4d340c",
+        "size": "1415"
+      },
+      {
+        "md5": "719f4abff6ce1f20ee5189c47a40146f",
+        "name": "data/themes/default/textures/bg_00.png",
+        "sha1": "20a5517cbaf321f3fc5da1f1b96b1dce6aa254e4",
+        "size": "139848"
+      },
+      {
+        "md5": "4342dd7f0077b01146aaef6aca41ab52",
+        "name": "data/themes/default/textures/bg_01.png",
+        "sha1": "0166afb2c832b67e84ff736460430d5958c0e2bc",
+        "size": "131632"
+      },
+      {
+        "md5": "30100887b733a02e5d4f137c893d15df",
+        "name": "data/themes/default/textures/bg_02.png",
+        "sha1": "bd5e9f8c24a7f43bd97dba2ef14baf912b8d11b8",
+        "size": "263250"
+      },
+      {
+        "md5": "44fd629fac7677adfbf31e3d3e1c34e2",
+        "name": "data/themes/default/textures/black-bg.png",
+        "sha1": "5bc6683c0bd1071d098c541d191b368aea427004",
+        "size": "990"
+      },
+      {
+        "md5": "05ef3331df6a816830af68efd504fb9f",
+        "name": "data/themes/default/textures/clock-moon.png",
+        "sha1": "eb1868b169b66950eda537f7b83d76ef71918c81",
+        "size": "337"
+      },
+      {
+        "md5": "79bfa973e019a7e7e6a717ef58fb0ffc",
+        "name": "data/themes/default/textures/clock-sun.png",
+        "sha1": "1ff2fbb7d0f5728ae4ace27dd670899c557812e7",
+        "size": "1204"
+      },
+      {
+        "md5": "3501aeaf603945711165607bb59eed80",
+        "name": "data/themes/default/textures/disconnected.png",
+        "sha1": "0fd374282ffb850e4f1b1b3ee505d01270a67260",
+        "size": "9696"
+      },
+      {
+        "md5": "174e64d5940cd149c287259e73e48e3d",
+        "name": "data/themes/default/textures/flags.png",
+        "sha1": "bb56f4178d4ba8c2816c51a44ac21b2abb6679d7",
+        "size": "5943"
+      },
+      {
+        "md5": "b94f2766ca71fa76c891a9c0fe9e4a3c",
+        "name": "data/themes/default/textures/gender_icons.png",
+        "sha1": "8e4bf4d62befdcb514d0ab63d060d774ea1b0783",
+        "size": "1186"
+      },
+      {
+        "md5": "d5481f7b3f756d1d917e2b2c913f6631",
+        "name": "data/themes/default/textures/icon_set.png",
+        "sha1": "81549974b0587a832ab4b31d14a1366973961612",
+        "size": "12607"
+      },
+      {
+        "md5": "2341c194adfc262dadc4e6f90f55c8c5",
+        "name": "data/themes/default/textures/monster-types-de.png",
+        "sha1": "05bb3c781ebfab93450c401fe8a34b993d411c8f",
+        "size": "33780"
+      },
+      {
+        "md5": "660b4e33f153e3dc69909cca88babce5",
+        "name": "data/themes/default/textures/monster-types-es.png",
+        "sha1": "36207dcae458910cd93bb3542f40e53f48724163",
+        "size": "33451"
+      },
+      {
+        "md5": "2419204e891a072696b892415815fc41",
+        "name": "data/themes/default/textures/monster-types-fr.png",
+        "sha1": "86d7f60fd8775123d242e33308cfaf35ae095770",
+        "size": "33606"
+      },
+      {
+        "md5": "9b42702188fa301bd30c54894c057182",
+        "name": "data/themes/default/textures/monster-types-it.png",
+        "sha1": "c7ea2281f559ffbdc93438a4ba9df6c1c5b5b0ad",
+        "size": "33366"
+      },
+      {
+        "md5": "c67379827ce244ef67de256b22fe15c3",
+        "name": "data/themes/default/textures/monster-types-zh.png",
+        "sha1": "80ffb35506d908484abf53976cc1b6582b7bd428",
+        "size": "8718"
+      },
+      {
+        "md5": "0b7d9af826ad7f627bf4e55fdce4fc3b",
+        "name": "data/themes/default/textures/monster-types.png",
+        "sha1": "de15c08e5f55f05ec01804c596327ea5d931d5de",
+        "size": "33575"
+      },
+      {
+        "md5": "deac4122c6d040160625c3786f28673c",
+        "name": "data/themes/default/textures/shiny-small.png",
+        "sha1": "0be3b4089b121e3a82e4458df946bbfd850415fa",
+        "size": "499"
+      },
+      {
+        "md5": "8521732aaa4d847d4ed43f99dd98dca4",
+        "name": "data/themes/default/textures/shiny.png",
+        "sha1": "4d52d8aa53f35b48516cfe85292f2e9db4f8b274",
+        "size": "639"
+      },
+      {
+        "md5": "8edafcbb9988f34066b08f3e1226900a",
+        "name": "data/themes/default/textures/status-ailments.png",
+        "sha1": "80cc9c61973ab2d1991e8f2740c431b93f77b6b8",
+        "size": "1618"
+      },
+      {
+        "md5": "d3079bdec2435f47bb0fb46f68a3aa9c",
+        "name": "data/themes/default/theme.xml",
+        "sha1": "ac05ae8b0cd873e51c46615dc15fc94d80089cf2",
+        "size": "1273"
+      },
+      {
+        "md5": "9da1ba7ee486e9fea19c5290fefa99d9",
+        "name": "data/themes/default/twl-themer-load.xml",
+        "sha1": "3763c9da6c92f8f43fd0f134bb9a02988d8988c4",
+        "size": "672"
+      },
+      {
+        "md5": "b61974486393ffdb4a9a33d6de285f84",
+        "name": "data/themes/default/ui/battle.xml",
+        "sha1": "b0d45d1c085d2549f36c0303008786d87287b114",
+        "size": "8096"
+      },
+      {
+        "md5": "62560dda874d104c79d291ff5d17f6e1",
+        "name": "data/themes/default/ui/broker.xml",
+        "sha1": "c0158182b1b1ab78023d7fc12a126c352fbf4b28",
+        "size": "9712"
+      },
+      {
+        "md5": "0a3011f4d417f75f3337f52cfedccdbf",
+        "name": "data/themes/default/ui/chat.xml",
+        "sha1": "61fd3899f44c474c26d1c1a949e2c88d1fd51361",
+        "size": "14002"
+      },
+      {
+        "md5": "2728b9a11e4bd19906015423ad4024f6",
+        "name": "data/themes/default/ui/contest.xml",
+        "sha1": "fc1e6765f171d30df4d501bd3ad131840922a1bf",
+        "size": "5838"
+      },
+      {
+        "md5": "35314762aefb6e4d3368a018ea5ee087",
+        "name": "data/themes/default/ui/customization.xml",
+        "sha1": "8e39c4fb65095ed7a743aed57c67f9ebdc7cecd6",
+        "size": "12021"
+      },
+      {
+        "md5": "ba8b2052b929b903c6a122ae0709cb41",
+        "name": "data/themes/default/ui/guild.xml",
+        "sha1": "5fb4c4cfbaba107282f1561b1df7e063588ecca8",
+        "size": "12325"
+      },
+      {
+        "md5": "fc0a4397dd47543d6cd0a1e5e5153c5b",
+        "name": "data/themes/default/ui/instance.xml",
+        "sha1": "902e21ce3dfa3dd88ee3afb71dafafb63443641d",
+        "size": "4356"
+      },
+      {
+        "md5": "9fe6337c9eda3cdbc4e033edd3dc5cc8",
+        "name": "data/themes/default/ui/inventory.xml",
+        "sha1": "0e5c35f0fb4e3bdd10540aab2d902fa8d467351f",
+        "size": "8091"
+      },
+      {
+        "md5": "74e7be84301a10ea13a2e5979587e0a5",
+        "name": "data/themes/default/ui/link.xml",
+        "sha1": "23ce250bdc68f86842190656969872fd08006c95",
+        "size": "833"
+      },
+      {
+        "md5": "1b99770a3010a9da750c99cf413dc2a4",
+        "name": "data/themes/default/ui/main.xml",
+        "sha1": "66dd2e91057f1dbb059fa92ec61c67211a617b1a",
+        "size": "12185"
+      },
+      {
+        "md5": "465b1de9aa75ab6d57bea8fcbebf6bf0",
+        "name": "data/themes/default/ui/matchmaking.xml",
+        "sha1": "38ac5d25a81a5a926cafb91636bbd733f3d4f354",
+        "size": "32598"
+      },
+      {
+        "md5": "3666bcc051a4ec071fd3b024eddde633",
+        "name": "data/themes/default/ui/misc.xml",
+        "sha1": "1faef5d9d2a07357a5a281af617cb9f64c174d7c",
+        "size": "8157"
+      },
+      {
+        "md5": "a087d1d3d06e259f8532e7aee5d7ab37",
+        "name": "data/themes/default/ui/monster-dex.xml",
+        "sha1": "5c585e3b52d9536377f44920d7ffd40562c8eb54",
+        "size": "14822"
+      },
+      {
+        "md5": "c78222cbb99e8338e2f8f75b1d7b0ba1",
+        "name": "data/themes/default/ui/monster-frame.xml",
+        "sha1": "c6e28e8351ff6bc03ca98f9c8c5184f938c743fa",
+        "size": "14187"
+      },
+      {
+        "md5": "6287c385194adb38d5886f327e8d2e80",
+        "name": "data/themes/default/ui/party.xml",
+        "sha1": "dd8098038e73514e504a3cb70c679e9c1e095fc6",
+        "size": "6451"
+      },
+      {
+        "md5": "fd84623ea1d830d7fad8fea669ebca88",
+        "name": "data/themes/default/ui/pc.xml",
+        "sha1": "10a6923829b2c1988a6b34ccad80382f880b3b28",
+        "size": "13157"
+      },
+      {
+        "md5": "fc968960fd1bb4b0a3774c1bec327fdd",
+        "name": "data/themes/default/ui/shop.xml",
+        "sha1": "e57bbe653f2d05c9108ac52a7394c6dde15adefa",
+        "size": "4408"
+      },
+      {
+        "md5": "59829cb33114e955e42b326efa644d34",
+        "name": "data/themes/default/ui/social.xml",
+        "sha1": "c204d05bebd7298ac3cf7c3d73c272f97ced85fd",
+        "size": "9431"
+      },
+      {
+        "md5": "1188e0f634e8c9b8b800296f1fddf54d",
+        "name": "data/themes/default/ui/trade.xml",
+        "sha1": "a835708fbbf0bce133081b57f838bde041412ec6",
+        "size": "4694"
+      },
+      {
+        "md5": "e65274c97ca89de46f01b90dd4802c12",
+        "name": "lib/TWL.jar",
+        "sha1": "c35816ba2e4bdfb6b91ccfce833103dcf1c5b742",
+        "size": "863668"
+      },
+      {
+        "md5": "d8c6210706bae2b2e76dbe547c0c0e3a",
+        "name": "lib/TWLEffects.jar",
+        "sha1": "92201201edc10cb36ccb4ff2a55f8e35c64bd311",
+        "size": "21303"
+      },
+      {
+        "md5": "b6a50c8a15ece8753e37cbe5700bf84f",
+        "name": "lib/commons-io-1.4.jar",
+        "sha1": "a8762d07e76cfde2395257a5da47ba7c1dbd3dce",
+        "size": "109043"
+      },
+      {
+        "md5": "d62ff8cd9539a32dac094c00e820e9e6",
+        "name": "lib/jinput.jar",
+        "sha1": "2d5a40f2a25f8b4ec1ea35f3e5ca79119ed5d027",
+        "size": "214859"
+      },
+      {
+        "md5": "4d4609998fbc124ce6f0d1d48fca2614",
+        "name": "lib/log4j-1.2.15.jar",
+        "sha1": "f0a0d2e29ed910808c33135a3a5a51bba6358f7b",
+        "size": "391834"
+      },
+      {
+        "md5": "339e28b43086b650acf7523100e52a07",
+        "name": "lib/lwjgl.jar",
+        "sha1": "3df168ac74e4a8c96562cdff24ad352e255bf89c",
+        "size": "1053471"
+      },
+      {
+        "md5": "b2746e810dc27a9c9c63925444775d1a",
+        "name": "lib/lwjgl_util.jar",
+        "sha1": "751f06b62424da056954c67288fd5c494431e350",
+        "size": "173911"
+      },
+      {
+        "md5": "f2317f7c050cd441510423e90fb16dfd",
+        "name": "lib/native/linux/libjinput-linux.so",
+        "sha1": "d0003f05e27d33ed9ad4995badaf876bdcb5e39e",
+        "size": "13824"
+      },
+      {
+        "md5": "23a6b611eaab617a9394f932b69ae034",
+        "name": "lib/native/linux/libjinput-linux64.so",
+        "sha1": "bd4ff8a11cc9e5a068fc5d7a74122983a24ebeec",
+        "size": "14512"
+      },
+      {
+        "md5": "73f4a63a1913340b6fbeb797e7fa2f74",
+        "name": "lib/native/linux/liblwjgl.so",
+        "sha1": "52411d4a3509bf765846776efb78440dd956af7c",
+        "size": "395108"
+      },
+      {
+        "md5": "37c8b24a9b8e3be2fab5c15ce5aee1ba",
+        "name": "lib/native/linux/liblwjgl64.so",
+        "sha1": "c6ede7a034449dd96f867e1f80c2c8d7e62a853a",
+        "size": "469936"
+      },
+      {
+        "md5": "88132ac290c53e72094a0709185adb21",
+        "name": "lib/native/linux/libopenal.so",
+        "sha1": "4fbe4748eef8b07bf2134960d90260482abf3346",
+        "size": "368392"
+      },
+      {
+        "md5": "c37b4211431a33a4ab014ef47b05b363",
+        "name": "lib/native/linux/libopenal64.so",
+        "sha1": "ebac433b3c88016d16f75e2f71174b3add407f95",
+        "size": "404085"
+      },
+      {
+        "md5": "b0f62f4735ad754a7e6c8e2f744a0523",
+        "name": "lib/native/macosx/libjinput-osx.dylib",
+        "sha1": "6a167f736f8746892665f191e30937c5d96e5e65",
+        "size": "64608"
+      },
+      {
+        "md5": "b0f62f4735ad754a7e6c8e2f744a0523",
+        "name": "lib/native/macosx/libjinput-osx.jnilib",
+        "sha1": "6a167f736f8746892665f191e30937c5d96e5e65",
+        "size": "64608"
+      },
+      {
+        "md5": "1a92bb73852958f77b5630fedf44b5c5",
+        "name": "lib/native/macosx/liblwjgl.dylib",
+        "sha1": "1babc10922b31842a45be9153ffddf94cefaaf29",
+        "size": "531120"
+      },
+      {
+        "md5": "132d2055935567bdf2d480ab06585c60",
+        "name": "lib/native/macosx/liblwjgl.jnilib",
+        "sha1": "de9a6974d0e116829d10ab8b2de219249e7bf0a2",
+        "size": "954384"
+      },
+      {
+        "md5": "bc569baa70d2bb599af6a939de356cb2",
+        "name": "lib/native/macosx/openal.dylib",
+        "sha1": "307015baeed514e579191bbceb9e81f9fbc3e6f8",
+        "size": "731648"
+      },
+      {
+        "md5": "9e02334f9bba622885eadb059f0633b3",
+        "name": "lib/native/windows/OpenAL32.dll",
+        "sha1": "ede381bf55e7d0cd3a7e058237bbc66a8ff63837",
+        "size": "390144"
+      },
+      {
+        "md5": "89021c218a3f6feb807a664f852ffbd3",
+        "name": "lib/native/windows/OpenAL64.dll",
+        "sha1": "97362fba53dfb6d9581b8c64829f4b1d98a97855",
+        "size": "382464"
+      },
+      {
+        "md5": "ae25629d223b95f73f2f27800da6bbb3",
+        "name": "lib/native/windows/jinput-dx8.dll",
+        "sha1": "8bddc9f7498593c38d8b46e4742b9da676ac2ac4",
+        "size": "61952"
+      },
+      {
+        "md5": "f1a51706365a44ea21aa96a9a04bfb37",
+        "name": "lib/native/windows/jinput-dx8_64.dll",
+        "sha1": "5d155b2cf48bd73371e85698770fda6e8a040e8a",
+        "size": "65024"
+      },
+      {
+        "md5": "88f04991b739b891d8e30f02db3b933e",
+        "name": "lib/native/windows/jinput-raw.dll",
+        "sha1": "4ac5b7b6a70538abda0d430463de5c87ea94778c",
+        "size": "59392"
+      },
+      {
+        "md5": "4d1cfc36d1b5b1dd496d6e3090044cb1",
+        "name": "lib/native/windows/jinput-raw_64.dll",
+        "sha1": "49ec2c5265cad278104fc0c39450a180cf3794a1",
+        "size": "62464"
+      },
+      {
+        "md5": "0e11fae8d0307d26e5e2e3d2e91611bd",
+        "name": "lib/native/windows/lwjgl.dll",
+        "sha1": "c9ddf9057c9e72c64f62a8f9905f2396f1983853",
+        "size": "306176"
+      },
+      {
+        "md5": "73cb2a967d771c65bc46c543f61a9898",
+        "name": "lib/native/windows/lwjgl64.dll",
+        "sha1": "0ef71be40bac0a5213b1a5c38739b1610ab311e6",
+        "size": "317440"
+      },
+      {
+        "md5": "0b9db0b296b5eb1df8d11eb30dc87b8f",
+        "name": "lib/slick-util.jar",
+        "sha1": "24129a1b1e92ce5759f72bff669ffc6896141721",
+        "size": "113869"
+      },
+      {
+        "md5": "8fc4d4e0129244f9fd39650c5f30feb2",
+        "name": "lib/trove-3.0.3.jar",
+        "sha1": "42ccaf4761f0dfdfa805c9e340d99a755907e2dd",
+        "size": "2523218"
+      },
+      {
+        "md5": "6e3c39f391e4994888b7d0030f775804",
+        "name": "lib/xpp3-1.1.4c.jar",
+        "sha1": "9b988ea84b9e4e9f1874e390ce099b8ac12cfff5",
+        "size": "120069"
+      },
+      {
+        "md5": "e9c85fae379d684eeb83ef4869650579",
+        "name": "PokeMMO.exe",
+        "sha1": "3d5e514c7a4ca3f1c47a59398c99b7e0b0759947",
+        "size": "3575902"
+      },
+      {
+        "md5": "47f91db40efc6a22350eca5c953c4742",
+        "name": "revision.txt",
+        "sha1": "31b2e980c801a7ab7c0e5a37562743e08482e976",
+        "size": "4"
+      }
+    ],
+    "optional_file": [
+      {
+        "md5": "622f956ec9c62ccfc1e33335d6b3a3ad",
+        "name": "lib/native/windows/x64/opengl32.dll",
+        "option_name": "software_renderer",
+        "sha1": "24250470b9173f6616e49e22729dbd7d61474157",
+        "size": "25095168"
+      },
+      {
+        "md5": "52a03c5008352be2fce23ab9b6f6cb0a",
+        "name": "lib/native/windows/x86/opengl32.dll",
+        "option_name": "software_renderer",
+        "sha1": "cbf15e3492ece2dd7747e193e5095ad9a14d6e3f",
+        "size": "24236544"
+      }
+    ],
+    "jre": [
+      {
+        "arch": "64",
+        "name": "jre/windows-x64.zip",
+        "os_name": "windows",
+        "sha256": "4fe970ac5ecc2e5cebec852a048326931e676b8e6b321f0ef99acadb9a07d7f7",
+        "size": "40089646"
+      },
+      {
+        "arch": "32",
+        "name": "jre/windows-i586.zip",
+        "os_name": "windows",
+        "sha256": "fa3336c7ae0f55d551c29989e22e8691889fd8c41ec76ddc4eb441913c8d5f4f",
+        "size": "38394340"
+      },
+      {
+        "name": "jre/macosx-x64.zip",
+        "os_name": "macosx",
+        "sha256": "044c66b8aace24c650f894b21f9e52d7bfb101e589a4d305831dbc572e824fd7",
+        "size": "42051232"
+      }
+    ]
+  }
+}
